@@ -1,0 +1,15 @@
+# Test Case : 1
+    p : 200
+    a : 5
+    b : 3
+    k : 150 80 170 100 90 110 180 130 120 140 160
+
+    Output : Abhimanyu can cross the Chakravyuh : WON
+
+# Test Case : 2
+    p : 100
+    a : 2
+    b : 2
+    k : 4 12 24 32 36 42 52 60 66 76 84
+
+    Output : Abhimanyu can not cross the Chakravyuh : LOST
